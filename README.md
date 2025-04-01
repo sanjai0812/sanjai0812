@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React JS**
+- 💬 Ask me about **HTML,CSS,Javascript,React JS,Python**
 
 - 📫 How to reach me **sanjaiananthakumar@gmail.com**
 
