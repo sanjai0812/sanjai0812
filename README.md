@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **System Engineer at Cognizant**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React JS,Python**
+- 💬 Ask me about **HTML,CSS,Javascript,React.JS,Tailwind,Typescript,Node.JS,Python,MySQL,MongoDB**
 
 - 📫 How to reach me **sanjaiananthakumar@gmail.com**
 
