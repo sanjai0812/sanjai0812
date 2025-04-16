@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.JS,Tailwind,Typescript,Node.JS,Python,MySQL,MongoDB**
+- 💬 Ask me about **HTML,CSS,Javascript,React.JS,Tailwind,Node.JS,Python,MySQL,MongoDB,GitHub**
 
 - 📫 How to reach me **sanjaiananthakumar@gmail.com**
 
